@@ -1,0 +1,89 @@
+.container2   {
+    position: relative;
+    width: 1920px;
+    height: 704px;
+    background: #F4F4F4;
+    margin-top: 116px;
+}
+
+.container2-1 {
+    position: absolute;
+    width: 1475px;
+    height: 575px;
+    left: 223px;
+    top: 65px;
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+.content2-1 {
+    position: absolute;
+    width: 664.43px;
+    height: 477px;
+    left: 50.33px;
+    top: 50px;
+    background: url('/asset/img/Galaxy_Buds2_Lifestyle\ 1.png');
+    background-size: cover;
+    border-radius: 12px;
+}
+
+.heading-content2 {
+    position: absolute;
+    font-size: 14px;
+    top: 69px;
+    right: 320px;
+    line-height: 20px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    font-feature-settings: 'pnum' on, 'lnum' on, 'kern' off;
+    color: rgba(0, 0, 0, 0.3);
+}
+
+
+.vector {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 200px;
+    color: #E0E0E0;
+    position: absolute;
+    line-height: 0;
+    top: 200px;
+    right: 351px;
+}
+
+.p-cont2-1 {
+    position: absolute;
+    width: 494px;
+    height: 160px;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: -0.04em;
+    top: 203px;
+    right: 147px;
+}
+
+.p-cont2-2 {
+    position: absolute;
+    width: 96px;
+    height: 20px;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -0.01em;
+    color: #0D0D0D; 
+    top: 383px;
+    right: 346px;
+}
+
+.p-cont2-3 {
+    position: absolute;
+    width: 36px;
+    height: 22px;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: -0.03em;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: rgba(0, 0, 0, 0.3);
+    top: 407px;
+    right: 377px;
+}
+
